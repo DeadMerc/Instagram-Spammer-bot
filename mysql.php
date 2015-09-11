@@ -70,9 +70,9 @@ class SafeMySQL
         
 	private $defaults = array(
 		'host'      => 'localhost',
-		'user'      => 'maxim-milchakov',
-		'pass'      => 'w3cav9',
-		'db'        => 'maxim-milchakov_instabot',
+		'user'      => 'user',
+		'pass'      => 'user',
+		'db'        => 'user_instabot',
 		'port'      => NULL,
 		'socket'    => NULL,
 		'pconnect'  => TRUE,
