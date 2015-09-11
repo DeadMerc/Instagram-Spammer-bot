@@ -1,6 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-
+mysql.php
 # Custom for Visual Studio
 *.cs     diff=csharp
 
